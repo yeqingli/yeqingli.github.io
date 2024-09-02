@@ -3,3 +3,6 @@ title: Yeqing's homepage
 description: braindump of Yeqing!
 # Build settings
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
